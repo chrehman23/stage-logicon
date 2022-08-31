@@ -655,7 +655,7 @@ img.slick-arrow.slick-next {
 .topCollectionBottomLink {
   display: flex;
   justify-content: center;
-  margin-top: -10px;
+  margin-top: -15px;
 }
 
 .topCollectionBottomLink button {
